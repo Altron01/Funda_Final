@@ -1,0 +1,11 @@
+﻿  EndScreen.cpp
+  MenuScreen.cpp
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\button.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\button.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\button.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\menuscreen.cpp(51): warning C4244: '-=': conversion from 'double' to 'GLubyte', possible loss of data
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\menuscreen.cpp(52): warning C4244: '-=': conversion from 'double' to 'GLubyte', possible loss of data
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\menuscreen.cpp(53): warning C4244: '-=': conversion from 'double' to 'GLubyte', possible loss of data
+c:\users\diego\desktop\fundamentos-teoria-de-juegos201802-master\fundamentos\papuengine\menuscreen.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  PapuEngine.vcxproj -> C:\Users\diego\Desktop\fundamentos-teoria-de-juegos201802-master\Fundamentos\Debug\PapuEngine.exe
